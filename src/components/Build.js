@@ -14,12 +14,12 @@ const Build = () => (
             {/* List of items */}
           </div>
           <div className="build__main-action">
-            <a href="https://app.brandmark.io/v3/brand/demo/" target="_blank" className="build__main-action-btn ui-btn ui-btn--size-normal ui-btn--theme-light" rel="noreferrer">
+            <a href="#" target="_blank" className="build__main-action-btn ui-btn ui-btn--size-normal ui-btn--theme-light" rel="noreferrer">
               <span className="ui-btn__box" tabindex="-1">
                 <svg className="ico-svg ico-svg--out">
-                  <use xlinkHref="/images/icons.svg#out"></use>
+                  <use xlinkHref="#"></use>
                 </svg>
-                See example assets
+                See best assets
               </span>
             </a>
           </div>

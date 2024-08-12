@@ -17,13 +17,13 @@ function App() {
   return (
     <div className="App">
 
-
+      <Hero />  
       <Header />
       <header className="App-header">
         <WeatherWidget />
       </header>
       <Slider/>
-      <Hero />
+     
       <Build />
       <Chat/>
       <Features/>

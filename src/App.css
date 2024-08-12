@@ -948,6 +948,29 @@ amp-sidebar.bm-sidebar .ml-auto {
   background-color: pink
 }
 
+/* Style for the SVG container */
+.ico-svg {
+  display: inline-block; /* Ensure the SVG displays inline with text */
+  width: 24px; /* Set the width of the SVG */
+  height: 24px; /* Set the height of the SVG */
+  fill: currentColor; /* Use the current text color for the SVG fill */
+  vertical-align: middle; /* Align the SVG vertically with text */
+  background-color: #000;
+}
+
+/* Additional styles for the menu icon */
+.ico-svg__menu {
+  /* Add any additional styles specific to the menu icon here */
+  stroke: none; /* Remove any stroke if it's not needed */
+}
+
+/* Example of hover effect */
+.ico-svg:hover {
+  fill: #007bff; /* Change the color on hover */
+}
+
+
+
 .hero__box {
   margin-right: auto;
   margin-left: auto;
