@@ -25,7 +25,7 @@ const Build = () => (
                 <svg className="ico-svg ico-svg--out">
                   <use xlinkHref="#icon-id"></use>
                 </svg>
-                See best npm assets
+                See best assets
               </span>
             </a>
           </div>

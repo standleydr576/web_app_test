@@ -18,12 +18,11 @@ function App() {
     <div className="App">
 
       <Hero />  
-      <Header />
       <header className="App-header">
         <WeatherWidget />
       </header>
+      <Header />
       <Slider/>
-     
       <Build />
       <Chat/>
       <Features/>

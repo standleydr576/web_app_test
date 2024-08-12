@@ -1225,7 +1225,10 @@ amp-sidebar.bm-sidebar .ml-auto {
 .slider__box-review .ico-svg {
   width: 33px;
   height: 24px;
-  fill: #fff
+  fill: #fff;
+  margin-top: 67px;
+
+
 }
 
 .slider__box-review .ico-svg__quote {
