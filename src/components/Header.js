@@ -14,7 +14,7 @@ const Header = () => (
           {/* Navigation items */}
         </ul>
       </nav>
-      <a href="#" className="header__mobile-menu sidebar-toggle" data-toggleclass="sidebar-open" data-target="body" rel="noreferrer">
+      <a href="https://example.com" className="header__mobile-menu sidebar-toggle" data-toggleclass="sidebar-open" data-target="body" rel="noreferrer">
         <svg className="ico-svg ico-svg__menu">
           <use xlinkHref="/images/icons.svg#menu"></use>
         </svg>
